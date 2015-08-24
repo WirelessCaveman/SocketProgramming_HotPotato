@@ -1,0 +1,3 @@
+1. Beej's guide for network programming: http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html#platform
+2. Dr. Freeh's initial code
+3. Unix Network Programming: Richard Stevens
